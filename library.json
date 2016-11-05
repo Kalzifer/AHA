@@ -2,22 +2,17 @@
   "name": "AHA",
   "keywords": "smarthome fritzbox avm aha dect ito",
   "description": "AHA - AVM Home Automation HTTP Interface for ESP8288",
-  "repository":
-  {
+  "repository": {
     "type": "git",
     "url": "https://github.com/Kalzifer/AHA.git"
   },
-  "authors":
-  [
-    {
+  "authors": {
       "name": "Frank Schmidt",
       "email": "kalzifer@github.com",
       "url": "https://github.com/kalzifer",
       "maintainer": true
-    },
-  ],
-  "dependencies":
-  {
+  },
+  "dependencies": {
     "name": "ESP8266wifi", 
     "authors": "Jonas Ekstrand",
     "frameworks": "arduino",
